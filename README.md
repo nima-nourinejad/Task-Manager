@@ -1,12 +1,6 @@
 # Task Manager
 
-
 This Task Manager application allows users to add, save, and display tasks dynamically using HTML, CSS, and JavaScript.
-
-
-
-
-
 
 ## Features
 
